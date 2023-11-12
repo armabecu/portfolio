@@ -1102,5 +1102,6 @@ section {
     position: static;
     width: auto;
     padding-right: 20px 15px;
+    z-index: -1;
   }
 }
